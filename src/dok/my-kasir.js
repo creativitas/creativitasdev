@@ -19,12 +19,12 @@ export class MyKasir extends LitElement {
       (this.description =
         'Built your modern JAMSTACK site with creativitas.dev'),
       (this.logo =
-        'https://creativitas.github.io//assets/img/creativitaswebdev.webp'),
-      (this.url = 'https://creativitas.dev'),
+        'https://creativitas.github.io/assets/img/creativitaswebdev.webp'),
+      (this.url = 'https://creativitasweb.pages.dev'),
       (this.pos = [
         {
           title: 'Welcome To My Site',
-          image: 'https://creativebydre.github.io//assets/img/image.jpg',
+          image: 'https://wsrv.nl/?url=https://creativebydre.github.io//assets/img/image.jpg&w=500&output=webp',
           info: 'If you need develop your site, blog or documentation site project you can hire me now ',
           link: 'https://creativitas.dev/services/',
           button: 'Hire Me Now',
