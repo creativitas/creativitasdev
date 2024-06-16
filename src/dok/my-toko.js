@@ -21,14 +21,14 @@ export class MyToko extends LitElement {
         {
           nav: 'BLACKS',
           image:
-            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5eMTzo-d0A4p6o9OH979U7Coqu8Io1AuSsyZQo-DRahqhyphenhyphenx06euPLnFI03eSPZ89fjpkCIpuHM4f2G2Oa3EYVfJO-JAH0lvy3PR9WVdR7e1GFCBxUADj-4aCxGqSl91Puw8eISX8gqZMpgvNStjLAlMx-HVZIXxPFI8BQ0AuOtHlx8HK9A9AzYsLqm2M0/s16000/photographer%20gallery%20website%20image.jpg',
+            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5eMTzo-d0A4p6o9OH979U7Coqu8Io1AuSsyZQo-DRahqhyphenhyphenx06euPLnFI03eSPZ89fjpkCIpuHM4f2G2Oa3EYVfJO-JAH0lvy3PR9WVdR7e1GFCBxUADj-4aCxGqSl91Puw8eISX8gqZMpgvNStjLAlMx-HVZIXxPFI8BQ0AuOtHlx8HK9A9AzYsLqm2M0/s16000/photographer%20gallery%20website%20image.jpg&w=500&output=webp',
           info: 'Multipurpose Astro JS themes template',
           link: 'https://creativitas.dev/theme/astro-multipurpose/',
         },
         {
           nav: 'TEXT-X',
           image:
-            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZIphI-1rYH7jIIdyT88c_SPNipzIZfIZefwL7mLr1jMUMJEbEhQ9aEWIcWGtKPU1RZ4POC1ma2e3qTbrN_egIeHKjU9sAi5t5ol6I5ZlqjMjZ5PadjAQ0fHnF0JOCQbZyF1DxniprL99ssdgPXoTzLeMo1fETHg2KTiS1gcALp7FHgrxcun_KyYBe-NO/s16000/minimalist-blog-text-x.webpp',
+            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHZIphI-1rYH7jIIdyT88c_SPNipzIZfIZefwL7mLr1jMUMJEbEhQ9aEWIcWGtKPU1RZ4POC1ma2e3qTbrN_egIeHKjU9sAi5t5ol6I5ZlqjMjZ5PadjAQ0fHnF0JOCQbZyF1DxniprL99ssdgPXoTzLeMo1fETHg2KTiS1gcALp7FHgrxcun_KyYBe-NO/s16000/minimalist-blog-text-x.webp',
           info: 'Minimalist Clean Flatfile CMS themes template',
           link: 'https://creativitas.dev/theme/minimalist-clean-website-themes/',
         },
@@ -42,7 +42,7 @@ export class MyToko extends LitElement {
         {
           nav: 'RENT CAR',
           image:
-            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghpDqhfbD3ZR75EBcZqguS53Kq5Vh1-Z3L48-sD8TtYp23h2jMPskO8b743fQg1wuBDG8yVZJEoFNg3Y4yitT5jVMKzpdzCr-Bu2kz3gWjSN7ny7rXWg6wtTRToSe9h_vAaSgx1d2HyS2oiYLXYCfME8pozcFB2EQ2y3w1yerblV5IYi-xOXKEzoZyqSlv/s16000/astro-rent-a-car.jpg',
+            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghpDqhfbD3ZR75EBcZqguS53Kq5Vh1-Z3L48-sD8TtYp23h2jMPskO8b743fQg1wuBDG8yVZJEoFNg3Y4yitT5jVMKzpdzCr-Bu2kz3gWjSN7ny7rXWg6wtTRToSe9h_vAaSgx1d2HyS2oiYLXYCfME8pozcFB2EQ2y3w1yerblV5IYi-xOXKEzoZyqSlv/s16000/astro-rent-a-car.jpg&w=500&output=webp',
           info: 'Built your modern rent car website with astro js + book form',
           link: 'https://creativitas.dev/theme/astro-rent-car/',
         },
@@ -56,7 +56,7 @@ export class MyToko extends LitElement {
         {
           nav: 'MOBILE WEB',
           image:
-            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXAt-H9GXV6hAqIZ5xsQhyphenhyphenRRngEeZsg03tnTTXnmifBc57MZ8c3_sHgzSkC-Fk7YV8NCLf0H8RoHKbeBceGY1JouG7pngyRP6nBKKGOX376zum0UnrMZaFD9OiW1RKn6afnOzz1H_fBHlNyTxXcDrBb4wL13lKnGMa3FhNVUsrygDvLHrIFFLEISJotyXc/s16000/mobileweb-markdown.png',
+            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXAt-H9GXV6hAqIZ5xsQhyphenhyphenRRngEeZsg03tnTTXnmifBc57MZ8c3_sHgzSkC-Fk7YV8NCLf0H8RoHKbeBceGY1JouG7pngyRP6nBKKGOX376zum0UnrMZaFD9OiW1RKn6afnOzz1H_fBHlNyTxXcDrBb4wL13lKnGMa3FhNVUsrygDvLHrIFFLEISJotyXc/s16000/mobileweb-markdown.png&w=500&output=webp',
           info: 'Get start now built mobile web with markdown PHP',
           link: 'https://creativitas.dev/theme/mobile-web-markdown-php/',
         },
