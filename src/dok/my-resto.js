@@ -22,35 +22,35 @@ export class MyResto extends LitElement {
         {
           nav: 'Static Site Generator',
           image:
-            'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfA78a30lyyYdC_WkOIbyyWbN-tBwzZYIychcTCUO8BYauQQaOOQ5qOU0sZGLuXKffU-CFQq4ryix3cnQavq3iRPQz3seMfO0wvZS7q_y-2EAG9pH3twZeoM-tUIMP5ZmC_YDTEZ6I-0CVbASnpLvYciifoacqx-GATfbiWQgxiUig5s5qBQ7_6rJJdhl7/s16000/design-your-modern-website-using-jekyll.png',
+            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfA78a30lyyYdC_WkOIbyyWbN-tBwzZYIychcTCUO8BYauQQaOOQ5qOU0sZGLuXKffU-CFQq4ryix3cnQavq3iRPQz3seMfO0wvZS7q_y-2EAG9pH3twZeoM-tUIMP5ZmC_YDTEZ6I-0CVbASnpLvYciifoacqx-GATfbiWQgxiUig5s5qBQ7_6rJJdhl7/s16000/design-your-modern-website-using-jekyll.png&w=500&output=webp',
           info: 'Develop your jamstack sratic site generator 11ty jekyll astro js or python pelican',
           link: 'https://creativitas.dev/service/build-develop-website-with-jekyll-eleventy-astro-static-site-generator/',
         },
         {
           nav: 'React Website',
           image:
-            'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6F58REuurEQKxtw_OmrmaDBtweibKE1duZMsWD3SaCeijFV1OxkbouUO7jnAKvPnU3EBRf5ceEKDZiktzplVDst8aNDY6SJJO8ozzisDJ7JrOhAWxODtjBLpiZcAOMrYsFk6tqk39cJuJKYFeMsGqSqfFK7stDJ4T4vn4aZ6mare1o7kNcB67VWUWaI-f/s16000/create-your-website-with-new-technology.jpg',
+            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6F58REuurEQKxtw_OmrmaDBtweibKE1duZMsWD3SaCeijFV1OxkbouUO7jnAKvPnU3EBRf5ceEKDZiktzplVDst8aNDY6SJJO8ozzisDJ7JrOhAWxODtjBLpiZcAOMrYsFk6tqk39cJuJKYFeMsGqSqfFK7stDJ4T4vn4aZ6mare1o7kNcB67VWUWaI-f/s16000/create-your-website-with-new-technology.jpg&w=500&output=webp',
           info: 'Develop your website project with modern web react js, next js, gatsby js',
           link: 'https://creativitas.dev/service/react-website-blog-dev-next-gatsby-remix/',
         },
         {
           nav: 'Documentation Site',
           image:
-            'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoZvF9eZKlu1_EHyqnoAxCampTNf61j1i54EJdej90ZDyIjSs_rAOn6q4FprXQ1cUydWRrgPOexYEV4DILihkITW0PNjBwULKAnZjCP_G_M1zHeaM-V4fFjEwkm3Mo6m4UOT5z2L94jY1cu4aTahzVf1KbO-XmsD5BLT2MCyq90HoP9eTEPqQWOprAaMIJ/s16000/design-modern-documentation-website-astro-js-stalight.jpg',
+            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoZvF9eZKlu1_EHyqnoAxCampTNf61j1i54EJdej90ZDyIjSs_rAOn6q4FprXQ1cUydWRrgPOexYEV4DILihkITW0PNjBwULKAnZjCP_G_M1zHeaM-V4fFjEwkm3Mo6m4UOT5z2L94jY1cu4aTahzVf1KbO-XmsD5BLT2MCyq90HoP9eTEPqQWOprAaMIJ/s16000/design-modern-documentation-website-astro-js-stalight.jpg&w=500&output=webp',
           info: 'Develope your documentation website with docusaurus, starlight, mkdocs, sphinx, docfx',
           link: 'https://creativitas.dev/service/documentation-website-developer/',
         },
         {
           nav: 'PWA Website',
           image:
-            'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnkJJMCaH6aJwVHfYC1cel93BweXycLofI-DUw-TXJpURf9uhAEAYu4JRpTsQ9TutNAgym8U7oworHe1i_W8HtGJQ_rQkV76-3q4Yppf8mbotrzuXYynbww_EnRQKspROrcXzMdKF3Tx2Cw3s21MbwcBhdOvfegZGLR5zqH8FfFuASAf3-i62hqVdBzP-s/s16000/design-your-website-with-progresive-web-application.jpg',
+            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnkJJMCaH6aJwVHfYC1cel93BweXycLofI-DUw-TXJpURf9uhAEAYu4JRpTsQ9TutNAgym8U7oworHe1i_W8HtGJQ_rQkV76-3q4Yppf8mbotrzuXYynbww_EnRQKspROrcXzMdKF3Tx2Cw3s21MbwcBhdOvfegZGLR5zqH8FfFuASAf3-i62hqVdBzP-s/s16000/design-your-website-with-progresive-web-application.jpg&w=500&output=webp',
           info: 'Develop your modern PWA website with Svelte kit, Angular, Blazor WASM',
           link: 'https://creativitas.dev/service/modern-pwa-website-angular-svelte-blazor/',
         },
         {
           nav: 'Full SEO Website',
           image:
-            'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit-MAEBgk8hW3wvroNdD1Nc3owfEqabTPJ9_73X-AN3Hd2cWYAmC8mwsy-VVM7Nx9KXIeNBwWMPT7rwwndrXFDAZElv6PMtA4ibFujhtHHRCGTGXcqgi7tOuTuU0ME5j2M50Yni673rfflzn48uqIcPurO9YtjEhyphenhyphenTLSb9Owi8SwaYRKDne9mEilDQNq09/s16000/create-your-custom-website-and-app.jpg',
+            'https://wsrv.nl/?url=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit-MAEBgk8hW3wvroNdD1Nc3owfEqabTPJ9_73X-AN3Hd2cWYAmC8mwsy-VVM7Nx9KXIeNBwWMPT7rwwndrXFDAZElv6PMtA4ibFujhtHHRCGTGXcqgi7tOuTuU0ME5j2M50Yni673rfflzn48uqIcPurO9YtjEhyphenhyphenTLSb9Owi8SwaYRKDne9mEilDQNq09/s16000/create-your-custom-website-and-app.jpg&w=500&output=webp',
           info: 'Let build your custom website with full SEO injection script',
           link: 'https://creativitas.dev/service/custom-website-seo-developer/',
         },
