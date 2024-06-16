@@ -20,7 +20,7 @@ export class MyFooter extends LitElement {
         'Built and Develope your site with modern technology JAMSTACK Static Site Generator + auto SEO injection'),
       (this.logo =
         'https://creativitas.github.io/assets/img/creativitaswebdev.webp'),
-      (this.url = 'https://creativitas.dev'),
+      (this.url = 'https://creativitasweb.pages.dev'),
       (this.home = 'https://creativitas.dev'),
       (this.info = 'creativebydre@gmail.com'),
       (this.condition = true);
