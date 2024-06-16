@@ -20,7 +20,7 @@ export class MyNav extends LitElement {
         'Built and Develope your site with modern technology JAMSTACK Static Site Generator + auto SEO injection'),
       (this.logo =
         'https://creativitas.github.io/assets/img/creativitaswebdev.webp'),
-      (this.url = 'https://creativitas.dev'),
+      (this.url = 'https://creativitasweb.pages.dev'),
       (this.home = 'https://creativitas.dev'),
       (this.info =
         'Select your favorite technology 11ty Eleventy , Jekyll , Astro Js, React Js, Next Js, Gatsby Js , Svelte Kit, Angular , Pelican, Docusaurus, Mkdocs, Docfx, Sphinx , Starlight Js '),
